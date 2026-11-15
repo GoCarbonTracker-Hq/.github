@@ -1,0 +1,15 @@
+user: GoCarbonTracker-Hq
+show: [about]
+look:
+  style: classic
+  color: green
+cards:
+  about:
+    title: About
+    headline: "*GoCarbonTracker*"
+    lines:
+      - Reads what companies publish about their climate performance and turns it into claims that can be checked, each one traced to a document and page.
+    facts:
+      Tracks: reported figures, not measured emissions
+      Public repos: global-esg-law, go-carbon-tracker
+      Site: gocarbontracker.net
