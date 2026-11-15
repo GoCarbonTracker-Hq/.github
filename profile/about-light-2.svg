@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="195" viewBox="0 0 400 195" fill="none" role="img" aria-labelledby="title desc">
 <title id="title">About</title>
-<desc id="desc">GoCarbonTracker Reads what companies publish about their climate performance and turns it into claims that can be checked, each one traced to a document and page. Tracks: reported figures, not measured emissions Public repos: global-esg-law, go-carbon-tracker Site: gocarbontracker.net</desc>
+<desc id="desc">GoCarbonTracker Open-source tools for checking what companies publish about climate and ESG. Tool: go-carbon-tracker (alpha) Law corpus: global-esg-law Site: gocarbontracker.net</desc>
 <style>
   text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; fill: #1f2328; }
   .label { font-size: 14px; }
@@ -25,11 +25,10 @@
 <text x="20" y="28" class="col">ABOUT</text>
 <g transform="translate(20 66)"><g class="fade" style="animation-delay: 200ms"><text style="font-size: 22px; font-weight: 700;"><tspan fill="#2da44e">GoCarbonTracker</tspan></text></g></g>
 <clipPath id="about"><rect x="0" y="78" width="400" height="66"/></clipPath><g clip-path="url(#about)"><g>
-<g transform="translate(20 94)"><g class="fade" style="animation-delay: 290ms"><text class="label secondary">Reads what companies publish about their climate</text></g></g>
-<g transform="translate(20 116)"><g class="fade" style="animation-delay: 380ms"><text class="label secondary">performance and turns it into claims that can be</text></g></g>
-<g transform="translate(20 138)"><g class="fade" style="animation-delay: 470ms"><text class="label secondary">checked, each one traced to a document and page.</text></g></g>
+<g transform="translate(20 94)"><g class="fade" style="animation-delay: 290ms"><text class="label secondary">Open-source tools for checking what companies publish</text></g></g>
+<g transform="translate(20 116)"><g class="fade" style="animation-delay: 380ms"><text class="label secondary">about climate and ESG.</text></g></g>
 </g></g>
-<g class="fact" style="animation-delay: 0.00s"><g transform="translate(20 160)"><g class="fade" style="animation-delay: 560ms"><text class="col">TRACKS</text><text x="105" class="label">reported figures, not measured emissions</text></g></g></g>
-<g class="fact" style="animation-delay: 4.30s"><g transform="translate(20 160)"><g class="fade" style="animation-delay: 560ms"><text class="col">PUBLIC REPOS</text><text x="105" class="label">global-esg-law, go-carbon-tracker</text></g></g></g>
-<g class="fact" style="animation-delay: 8.60s"><g transform="translate(20 160)"><g class="fade" style="animation-delay: 560ms"><text class="col">SITE</text><text x="105" class="label">gocarbontracker.net</text></g></g></g>
+<g class="fact" style="animation-delay: 0.00s"><g transform="translate(20 160)"><g class="fade" style="animation-delay: 560ms"><text class="col">TOOL</text><text x="89" class="label">go-carbon-tracker (alpha)</text></g></g></g>
+<g class="fact" style="animation-delay: 4.30s"><g transform="translate(20 160)"><g class="fade" style="animation-delay: 560ms"><text class="col">LAW CORPUS</text><text x="89" class="label">global-esg-law</text></g></g></g>
+<g class="fact" style="animation-delay: 8.60s"><g transform="translate(20 160)"><g class="fade" style="animation-delay: 560ms"><text class="col">SITE</text><text x="89" class="label">gocarbontracker.net</text></g></g></g>
 </svg>

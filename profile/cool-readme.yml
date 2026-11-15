@@ -8,8 +8,8 @@ cards:
     title: About
     headline: "*GoCarbonTracker*"
     lines:
-      - Reads what companies publish about their climate performance and turns it into claims that can be checked, each one traced to a document and page.
+      - Open-source tools for checking what companies publish about climate and ESG.
     facts:
-      Tracks: reported figures, not measured emissions
-      Public repos: global-esg-law, go-carbon-tracker
+      Tool: go-carbon-tracker (alpha)
+      Law corpus: global-esg-law
       Site: gocarbontracker.net
