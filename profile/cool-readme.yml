@@ -8,7 +8,8 @@ cards:
     title: About
     headline: "*GoCarbonTracker*"
     lines:
-      - Open-source tools for checking what companies publish about climate and ESG.
+      - Works to reduce Scope 3 emissions in supply chains.
+      - Open-source tools for checking what suppliers and companies publish about climate.
     facts:
       Tool: go-carbon-tracker (alpha)
       Law corpus: global-esg-law
